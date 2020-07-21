@@ -2,3 +2,5 @@ GitHub远程仓库练习!edit by kms
 GitHub远程仓库练习! edit by gsp; 
 我暂时没有被授权提交代码!
 我要做一些改变---by kms
+
+我将要进行fork操作，我不是项目组成员
